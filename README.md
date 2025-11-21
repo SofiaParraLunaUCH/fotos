@@ -1,2 +1,1 @@
-# fotos
-fotos portafolio
+repositorio_para_imagenes
